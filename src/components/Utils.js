@@ -181,7 +181,7 @@ export const hebrewToEnglishCommitmentMapping = {
   'קבוצה למסיבה': 'PartyGroup',
   'שם מזמין למסיבה': 'PartyInviterName',
   
-  "תשובה למתרים": "ResponseToFundraiser",
+  
   
     "סכום התחייבות": "CommitmentAmount",
     "סכום שולם": "AmountPaid",
@@ -316,7 +316,7 @@ export const hebrewToEnglishCommitmentMapping = {
     Notes: 'הערות',
     ResponseToFundraiser: 'תשובה למתרים',
     CampainName: 'קמפיין',
-    City: 'עיר',
+    
     MobilePhone: 'טל נייד',
     MobileHomePhone: 'נייד בבית 1',
     HomePhone: 'טל בית',
@@ -324,7 +324,7 @@ export const hebrewToEnglishCommitmentMapping = {
     BeitMidrash: 'בית מדרש',
     Classification: 'סיווג',
     DonationMethod: 'אופן התרמה',
-    Fundraiser: 'מתרים',
+   
     City: 'עיר',
     StudiedInYeshivaYears: 'למד בישיבה בשנים',
     yashagYear: 'שנה יש"ג',
@@ -334,7 +334,7 @@ export const hebrewToEnglishCommitmentMapping = {
     PartyInviterName: 'שם מזמין למסיבה',
     FreeFieldsToFillAlone: 'שדה חופשי',
     AnotherFreeFieldToFillAlone: 'שדה חופשי 2',
-    Notes: 'הערות',
+    
     ReceivedGift: 'קיבל מתנה',
 
     ungrouped: 'ללא ערך בשדה הממיין דפים',
@@ -354,15 +354,15 @@ export const hebrewToEnglishCommitmentMapping = {
       LastName: 'משפחה',
       PersonID: 'מספר זהות',
       Fundraiser: 'מתרים',
-      PaymentMethod: 'אופן תשלום',
-      CampainName: 'שם קמפיין',
+      
+      
       City: 'עיר',
       MobilePhone: 'טל נייד',
       MobileHomePhone: 'נייד בבית 1',
       HomePhone: 'טל בית',
       BeitMidrash: 'בית מדרש',
       Classification: 'סיווג',
-      City: 'עיר',
+      
       StudiedInYeshivaYears: 'למד בישיבה בשנים',
       yashagYear: 'שנה יש"ג',
       CommitteeResponsibility: 'אחראי ועד',
