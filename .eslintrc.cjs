@@ -21,6 +21,7 @@ rules: {
   "no-unreachable": "off",
   "Unnecessary semicolon": "off",
   "no-useless-escape": "off",
+  "no-extra-semi": "off",
 
   "react-refresh/only-export-components": [
     "warn",
