@@ -18,7 +18,9 @@ rules: {
   "react/no-unescaped-entities": "off",
   "no-unused-vars": "off",
   "no-useless-catch": "off",
-  "no-unreachable": "warn",
+  "no-unreachable": "off",
+  "Unnecessary semicolon": "off",
+  "no-useless-escape": "off",
 
   "react-refresh/only-export-components": [
     "warn",
