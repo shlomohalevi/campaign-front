@@ -18,6 +18,7 @@ rules: {
   "react/no-unescaped-entities": "off",
   "no-unused-vars": "off",
   "no-useless-catch": "off",
+  "no-unreachable": "warn",
 
   "react-refresh/only-export-components": [
     "warn",
