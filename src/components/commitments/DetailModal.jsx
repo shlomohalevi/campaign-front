@@ -1,6 +1,5 @@
-import React from 'react';
 
-function DetailModal({ data = { success: 0, failed: [], isPayments, reason}, onClose }) {
+function DetailModal({ data = { success: 0, failed: [], isPayments: false, reason:''}, onClose }) {
   const numberOfSuccess = data.success;
   const failedData = data.failed || [];
   const isPayments = data.isPayments;

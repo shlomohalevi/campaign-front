@@ -18,7 +18,7 @@ function PaymentForm({
   const [isLoading, setIsLoading] = useState(false);
 
   const validPaymentMethods = [
-    'מזומן', , 'העברה בנקאית', 'הבטחה', 
+    'מזומן',  'העברה בנקאית', 'הבטחה', 
     'משולב', 'כרטיס אשראי', 'שיקים', 'לא סופק', 
     'הוראת קבע', 'אשראי הו"ק','קיזוז',
   ];

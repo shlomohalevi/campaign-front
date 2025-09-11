@@ -48,7 +48,7 @@ function CommitmentForm({ onSubmit, onClose }) {
   const [campaigns, setCampaigns] = useState([]);
   const [people, setPeople] = useState([]);
   const validPaymentMethods = [
-    'מזומן', , 'העברה בנקאית', 'הבטחה', 
+    'מזומן',  'העברה בנקאית', 'הבטחה', 
     'משולב', 'כרטיס אשראי', 'שיקים', 'לא סופק', 
     'הוראת קבע', 'אשראי הו"ק','קיזוז',
   ];
